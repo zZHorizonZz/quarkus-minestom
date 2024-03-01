@@ -1,0 +1,5 @@
+name: quarkus-minestom
+title: Minestom
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
